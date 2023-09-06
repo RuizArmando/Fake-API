@@ -3,7 +3,7 @@
     {
       "nombre": "Resident Evil IV",
       "precio": "1190",
-      "imagen": "../assets/img/resident_evil_4_remake.png",
+      "imagen": "https://drive.google.com/file/d/1NIbroI2zTJWx8lonieBpE1cw1QJi2epd/view?usp=drive_link",
       "categoria": "Horror",
       "descripcion": "Remasterización del juego clásico",
       "codigo": "42jslkf58saoid",
