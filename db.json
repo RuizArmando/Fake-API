@@ -12,7 +12,7 @@
     {
       "nombre": "Fortnite",
       "precio": "0",
-      "imagen": "../assets/img/fortnite.jpg",
+      "imagen": "https://www.esportmaniacos.com/wp-content/uploads/2022/03/Fortnite-scaled1.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "Juego malo",
       "codigo": "N/A",
@@ -21,7 +21,7 @@
     {
       "nombre": "Dead island 2",
       "precio": "1499",
-      "imagen": "../assets/img/dead island 2.webp",
+      "imagen": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b",
       "categoria": "Horror",
       "descripcion": "L",
       "codigo": "aad89wmfc",
@@ -30,7 +30,7 @@
     {
       "nombre": "Doom Eternal",
       "precio": "719",
-      "imagen": "../assets/img/doom eternal.jpg",
+      "imagen": "https://cdn.gaminggorilla.com/wp-content/uploads/2020/03/Doom-Eternal-Wallpaper.png",
       "categoria": "Horror",
       "descripcion": "El DOOM",
       "codigo": "554sai9a4",
@@ -39,7 +39,7 @@
     {
       "nombre": "Destiny 2",
       "precio": "0",
-      "imagen": "../assets/img/destiny 2.jpg",
+      "imagen": "https://i.blogs.es/87aef0/destiny-2-1-/1366_2000.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "el destiny",
       "codigo": "N/A",
@@ -48,7 +48,7 @@
     {
       "nombre": "Elden ring",
       "precio": "819",
-      "imagen": "../assets/img/elden ring.jpg",
+      "imagen": "https://i0.wp.com/www.gameoverla.com/wp-content/uploads/2022/02/elden-ring-1.jpg?fit=620%2C300&ssl=1",
       "categoria": "Aventura",
       "descripcion": "elden",
       "codigo": "cAH9PtAWdwiqDPi6t3hBZRe4y1R6PEHyA0TnpBkBFweyjEgUQf",
@@ -57,7 +57,7 @@
     {
       "nombre": "Fallout 76",
       "precio": "719",
-      "imagen": "../assets/img/Fallout 76.webp",
+      "imagen": "https://www.desconsolados.com/wp-content/uploads/2018/11/Fallout-76-destacada.jpg",
       "categoria": "Shooter",
       "descripcion": "fall",
       "codigo": "gLcgU3YVaBYnKfxq2HvEF6uCbQzg69WeXJuAcc7xg3D1wR84v",
@@ -66,7 +66,7 @@
     {
       "nombre": "Hogwarts legacy",
       "precio": "699",
-      "imagen": "../assets/img/hogwarts legacy.jpg",
+      "imagen": "https://www.hogwartslegacy.com/images/share.jpg",
       "categoria": "Aventura",
       "descripcion": "harry",
       "codigo": "C0TEKkT5B7rJf4hxF9xjJdQn7UEgtyfh3fw3qygknFawWjJyVT2saf",
@@ -75,7 +75,7 @@
     {
       "nombre": "Hollow Kinght",
       "precio": "179",
-      "imagen": "../assets/img/Hollow Knight.webp",
+      "imagen": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/f/f6/The_Game_of_the_GOATS.jpg/revision/latest?cb=20230619224502&path-prefix=es",
       "categoria": "Aventura",
       "descripcion": "holl",
       "codigo": "WahfNdV4bvkkqbznkq9gHkPQdUx3fPdBU4MW7K1BCtx2ugGF5",
@@ -84,7 +84,7 @@
     {
       "nombre": "League of legends",
       "precio": "0",
-      "imagen": "../assets/img/league of legends.jpg",
+      "imagen": "https://esports.eldesmarque.com/wp-content/uploads/2019/09/LoL2.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "lol",
       "codigo": "N/A",
@@ -93,7 +93,7 @@
     {
       "nombre": "Outlast",
       "precio": "228",
-      "imagen": "../assets/img/outlast.jpg",
+      "imagen": "https://images7.alphacoders.com/703/thumb-1920-703817.jpg",
       "categoria": "Horror",
       "descripcion": "out",
       "codigo": "xCUpqNpbELhiQj2AbDvGvDnvH2kZW4q4bUh8TMpBziNT92fD9s",
@@ -102,7 +102,7 @@
     {
       "nombre": "Paladins",
       "precio": "0",
-      "imagen": "../assets/img/paladins.jpg",
+      "imagen": "https://www.greenmangaming.com/free-to-play/wp-content/uploads/2019/03/paladins.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "pala",
       "codigo": "N/A",
@@ -111,7 +111,7 @@
     {
       "nombre": "Red dead redemption 2",
       "precio": "1299",
-      "imagen": "../assets/img/red dead redemption 2.jpg",
+      "imagen": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/downloads/wallpapers/games/rdr2_officialart2_desktop.jpg",
       "categoria": "Aventura",
       "descripcion": "red",
       "codigo": "vtRkCNLx0UYZDJRZZjETvaJ34ktkNJBQqhgaVb6Pgk1jwL7RnVR",
@@ -120,7 +120,7 @@
     {
       "nombre": "The forest",
       "precio": "324",
-      "imagen": "../assets/img/the forest.jpg",
+      "imagen": "https://media.vandal.net/m/22777/the-forest-201852113348_17.jpg",
       "categoria": "Horror",
       "descripcion": "for",
       "codigo": "7gM64JaB9AGhEny5AUKHLEwfMgk9MuHyaNgAUghtDgzZDuQt",
@@ -129,7 +129,7 @@
     {
       "nombre": "Warframe",
       "precio": "0",
-      "imagen": "../assets/img/warframe.jpg",
+      "imagen": "https://images3.alphacoders.com/897/897231.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "war",
       "codigo": "N/A",
@@ -138,7 +138,7 @@
     {
       "nombre": "Wold of warships",
       "precio": "0",
-      "imagen": "../assets/img/World_of_Warships.webp",
+      "imagen": "https://static.wikia.nocookie.net/world-of-warships/images/4/48/World_of_Warships.jpg/revision/latest?cb=20161024233651",
       "categoria": "Juego gratuito",
       "descripcion": "wow",
       "codigo": "N/A",
@@ -147,7 +147,7 @@
     {
       "nombre": "Warhammer 40000 Bultgun",
       "precio": "299",
-      "imagen": "../assets/img/bultgun.jpg",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BN2QwM2YxNTEtY2UzMS00ZTZhLWJiNjQtMTJmY2MzNzkwZThkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
       "categoria": "Shooter",
       "descripcion": "Juego retro de warhammer",
       "codigo": "ddQLS1a9tQVYwdEU6FUJR193qdkviAR8zCHG57WwkZj5715ee",
@@ -156,7 +156,7 @@
     {
       "nombre": "Call of Duty Black OPS 3",
       "precio": "1299",
-      "imagen": "../assets/img/call of duty black ops 3.jpg",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BNWMwYmE3NmMtZjFlYS00Y2M0LTljOTEtY2NhNGQ3Y2E1MWQyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
       "categoria": "Shooter",
       "descripcion": "Ya bajale el precio",
       "codigo": "DDTzQZTK8ARDuDirhgGpuPeAppTphAmUAM0qw1kKp5jSPYtjJ",
@@ -165,7 +165,7 @@
     {
       "nombre": "Rust",
       "precio": "409",
-      "imagen": "../assets/img/rust.jpg",
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_616x353.jpg?t=1693652810",
       "categoria": "Shooter",
       "descripcion": "Rust",
       "codigo": "GVHawmynmLmzAEW1aZCrhSrxK5UWRME6z1Hp3BQfWeFRG",
@@ -174,7 +174,7 @@
     {
       "nombre": "Hell let loose",
       "precio": "525",
-      "imagen": "../assets/img/hell let loose.avif",
+      "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1816/089d248cf8a56a6312560f622c856d5b7d34f206bc35a508.jpg",
       "categoria": "Shooter",
       "descripcion": "hell",
       "codigo": "t14MQn8gJHgQUkr45UEHW9awz3H9MuH9Qg4XrcrLTzRa0EEhx",
@@ -183,7 +183,7 @@
     {
       "nombre": "Warhammer 40000 Darktide",
       "precio": "799",
-      "imagen": "../assets/img/darktide.jpg",
+      "imagen": "https://gaming-cdn.com/images/products/7368/orig/warhammer-40-000-darktide-pc-game-steam-cover.jpg?v=1669810979",
       "categoria": "Shooter",
       "descripcion": "darktide",
       "codigo": "bpCYTMFQ07x5QduG3XvjXDCTV6FjRyih8rQ3kqU3zD8NgFK2A",
@@ -192,7 +192,7 @@
     {
       "nombre": "God of war",
       "precio": "830",
-      "imagen": "../assets/img/god of war.jpg",
+      "imagen": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
       "categoria": "Aventura",
       "descripcion": "Kratooooossss",
       "codigo": "0Z9BMV9yyUfFcSX8wM84bwDGdVCqdrE1WNqZmmL9pckJXmL",
