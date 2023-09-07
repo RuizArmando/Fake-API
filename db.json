@@ -138,7 +138,7 @@
     {
       "nombre": "Wold of warships",
       "precio": "0",
-      "imagen": "https://static.wikia.nocookie.net/world-of-warships/images/4/48/World_of_Warships.jpg/revision/latest?cb=20161024233651",
+      "imagen": "https://wows-web-static.wgcdn.co/wowsp/cd8cb11e/images/wows_social_1.jpg",
       "categoria": "Juego gratuito",
       "descripcion": "wow",
       "codigo": "N/A",
@@ -201,7 +201,7 @@
     {
       "nombre": "Horizon Zero Dawn",
       "precio": "830",
-      "imagen": "../assets/img/horizon zero dawn.jpg",
+      "imagen": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
       "categoria": "Aventura",
       "descripcion": "Horizon",
       "codigo": "cB4ccjzqWDANMzHzQL9hkfdK6M6rXQWbf0EuaKJ423ChaXjwBo",
@@ -210,7 +210,7 @@
     {
       "nombre": "Left 4 Dead 2",
       "precio": "124",
-      "imagen": "../assets/img/left 4 dead 2.jpg",
+      "imagen": "https://larepublica.cronosmedia.glr.pe/original/2022/07/23/62dc186233bc4476526302d7.jpg",
       "categoria": "Horror",
       "descripcion": "Para cuando el 3?",
       "codigo": "T0KegD3AMUShBtxaigcHyypyg1kXeBeazaYaWvbJbzFBg90x5kU",
@@ -219,7 +219,7 @@
     {
       "nombre": "Anno 1800",
       "precio": "1199",
-      "imagen": "../assets/img/anno 1800.png",
+      "imagen": "https://cdn1.epicgames.com/offer/oregano/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b_1920x1080-cea85f12443da424bef2a30a20be060b",
       "categoria": "Estrategia",
       "descripcion": "Ultima entrega de la saga Anno",
       "codigo": "QprFgEhNQ6GVf1DqENBKn6rVEB88AbFWSQf6kteruBvSSh2mn",
@@ -228,7 +228,7 @@
     {
       "nombre": "Civilization VI",
       "precio": "599",
-      "imagen": "../assets/img/civilization vi.jpg",
+      "imagen": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVI_FiraxisGames_S1-2560x1440-2fcd1c150ac6d8cdc672ae042d2dd179.jpg",
       "categoria": "Estrategia",
       "descripcion": "Civilization",
       "codigo": "h1AfmRDBgcXrVZeyS4JaERUkY0zZ2wDZ5hY84B2rSQmeP8Xju",
@@ -237,7 +237,7 @@
     {
       "nombre": "Hearts of Iron IV",
       "precio": "459",
-      "imagen": "../assets/img/hearts of iron iv.jpg",
+      "imagen": "https://assets.nuuvem.com/image/upload/t_product_sharing_banner/v1/products/573b63d5f372803be900661b/sharing_images/u8dqeo6gtbdyvnnalni5.jpg",
       "categoria": "Estrategia",
       "descripcion": "estrategia",
       "codigo": "hG59bGnwdPu4Cc9RUJjM0rbht0WX1Rjz46fG9FhtWxaYjx6V6Ik8",
@@ -246,7 +246,7 @@
     {
       "nombre": "Cities Skylines",
       "precio": "359",
-      "imagen": "../assets/img/Cities skylines.jpg",
+      "imagen": "https://assets.nuuvem.com/image/upload/t_product_sharing_banner/v1/products/573b63d5f372803be900661b/sharing_images/u8dqeo6gtbdyvnnalni5.jpg",
       "categoria": "Estrategia",
       "descripcion": "Cities",
       "codigo": "8RvrSZ2ikTNtVa1ZTkxgn7Eg3Zh1Fqba7k5Xn2hqRKM6K2w9Ae8",
@@ -255,7 +255,7 @@
     {
       "nombre": "Stellaris",
       "precio": "459",
-      "imagen": "../assets/img/stellaris.jpg",
+      "imagen": "https://live.mrf.io/statics/i/ps/www.muycomputer.com/wp-content/uploads/2016/06/Stellaris.jpg?width=1200&enable=upscale",
       "categoria": "Estrategia",
       "descripcion": "Estrategia espacial",
       "codigo": "VL2ZrV5iPiKwCYczytCzGqytm9a0uQWGmrMCKcY6aUGwETL4j",
@@ -264,7 +264,7 @@
     {
       "nombre": "Europa Universalis IV",
       "precio": "459",
-      "imagen": "../assets/img/europa universalis iv.jpg",
+      "imagen": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S2_1200x1600-c6740a476aa44943d38991468a85950d",
       "categoria": "Estrategia",
       "descripcion": "Saga Europa Universalis",
       "codigo": "Jh6Lrvdd93HVg5AS23X8mJPx4HPk2Sw4VgeikjzEgdnZE3VdrK5",
